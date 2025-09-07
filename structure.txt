@@ -1,0 +1,24 @@
+C:.
+│   .gitignore
+│   main.py
+│   README.md
+│   requirement.txt
+│   structure.txt
+│
+├───data
+│   ├───processed
+│   └───raw
+├───notebooks
+│   │   analysis.ipynb
+│   │   database_creation.ipynb
+│   │   yelp.db
+│   │
+│   └───.ipynb_checkpoints
+│           analysis-checkpoint.ipynb
+│           database_creation-checkpoint.ipynb
+│
+├───outputs
+│   └───figures
+└───scripts
+        analysis.py
+        database_creation.py

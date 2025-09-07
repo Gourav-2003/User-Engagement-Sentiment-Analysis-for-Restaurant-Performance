@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+# Ignore all JSON files in data/processed folder
+data/processed/*.json
+data/raw/*.json
+notebooks/yelp.db
+
